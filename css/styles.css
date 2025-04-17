@@ -666,9 +666,8 @@ h3 {
     fill: #f4f4fd;
 }
 
-/*#endregion footer style*/
+/* modal */
 
-/*#region backdrop*/
 .backdrop {
     position: fixed;
     top: 0;
