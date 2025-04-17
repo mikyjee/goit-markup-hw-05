@@ -867,7 +867,7 @@ h3 {
     fill: #F4F4FD;
 }
 
-.modal-form-btn {
+.modal-form-button {
     display: block;
     margin: 0 auto;
     min-width: 169px;
@@ -885,8 +885,8 @@ h3 {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-form-btn:hover,
-.modal-form-btn:focus {
+.modal-form-button:hover,
+.modal-form-button:focus {
     background-color: #404bbf;
 }
 
